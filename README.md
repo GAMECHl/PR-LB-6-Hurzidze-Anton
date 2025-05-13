@@ -33,7 +33,7 @@
 ![6.1](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/6.1.png)
 #### Рис. 6 - Файл PostCard.tsx
 ![7](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/7.png)
-Рис. 7 - Файл index.ts
+#### Рис. 7 - Файл index.ts
 ![8](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/8.png)
 Рис. 8 - Файл Modal.tsx
 ![9](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/9.png)
