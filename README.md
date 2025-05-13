@@ -31,7 +31,7 @@
 #### Далі вписуємо в ці файли наступні змісти:
 ![6](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/6.png)
 ![6.1](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/6.1.png)
-Рис. 6 - Файл PostCard.tsx
+#### Рис. 6 - Файл PostCard.tsx
 ![7](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/7.png)
 Рис. 7 - Файл index.ts
 ![8](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/8.png)
