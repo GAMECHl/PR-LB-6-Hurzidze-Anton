@@ -6,7 +6,22 @@
 
 #### Перед виконанням роботи клонуємо boilerplate-проєкт vite-react-boilerplate:
 ![1](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/1.png)
+Рис. 1 - Склонований проект в WebStorm
 
+#### Наступним чином використовуюємо команду npm install а потім npm install --legacy-peer-deps для встановлення всіх залежностей:
+![2](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/2.png)
+Рис. 2 - Встановлення залежностей
 
+#### Запускаємо проект командою npm run dev:
+![3](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/3.png)
+Рис. 3 - Запуск проекту
+
+#### Переходимо на сторінку http://localhost:5173/ та бачимо наступне повідомлення:
+![4](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/4.png)
+Рис. 4 - Запуск проекту
+
+#### Переходимо на сторінку http://localhost:5173/ та бачимо наступне повідомлення:
+![4](https://github.com/GAMECHl/PR-LB-6-Hurzidze-Anton/blob/main/4.png)
+Рис. 4 - Запуск проекту
 
 ## Висновкок: У ході виконання лабораторної роботи я навчився створювати користувацький інтерфейс для взаємодії з реалізованим RESTful API, що надає можливість перегляду, створення, редагування та видалення екземплярів певної сутності. Розробка ведеться на базі React з використанням TanStack Router для реалізації маршрутизації.
